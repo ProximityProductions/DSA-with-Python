@@ -1,4 +1,4 @@
-array = [1, 4, 7, 2, 5]
+array = [3, 4, 5, 1, 2]
 k = int(input())
 n = len(array)
 k = k % n
