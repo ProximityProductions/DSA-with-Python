@@ -12,4 +12,4 @@ def ConsecutiveOnes(array):
             current_count = 0
     return max_count
 
-print(ConsecutiveOnes(array))
+print(ConsecutiveOnes(array)) 
